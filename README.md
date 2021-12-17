@@ -25,7 +25,7 @@ Eg. - dir1
 2. Text box entries could be anything. Refrain yourself from using ";" (semicolon). It is used as a delimiter for extracting data.
 3. Adding the value of *dropdown entries* in the csv file has to be the same as the *container google form* mentioned. Make sure you write the text(string) as it is, including spaces, commas, quotes, etc.  
 
-*Note: When you open user_data.csv in any word processor, make sure to select **;** (semicolon) as a separator. Otherwise, you will see multiple entries merging into one column.*
+*Note: When you open user_data.csv in any spreadsheet, make sure to select **;** (semicolon) as a separator. Otherwise, you will see multiple entries merging into one column.*
 
 
 If you are still facing an issue, reach out to me here *abhishek [dot] 19csz0001 [at] iitrpr[dot]ac[dot]in*
