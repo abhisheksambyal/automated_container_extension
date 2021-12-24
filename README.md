@@ -25,7 +25,7 @@ Eg. - dir1
 2. Text box entries could be anything. Refrain yourself from using ";" (semicolon). It is used as a delimiter for extracting data.
 3. Adding the value of *dropdown entries* in the csv file has to be the same as the *container google form* mentioned. Make sure you write the text(string) as it is, including spaces, commas, quotes, etc.  
 
-*Note1: When you open user_data.csv in any spreadsheet, make sure to select **;** (semicolon) as a separator. Otherwise, you will see multiple entries merging into one column.*
+*Note1: When you open user_data.csv in any spreadsheet, make sure to select **;** (semicolon) as a separator. Otherwise, you will see multiple entries merging into one column.*  
 *Note2: The first two entries in the user_data.csv (email and password) are your IIT ropar login credentials and not container credentials.*
 
 
